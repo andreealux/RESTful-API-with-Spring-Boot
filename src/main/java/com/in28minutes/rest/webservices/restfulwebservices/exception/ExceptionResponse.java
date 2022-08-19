@@ -1,7 +1,6 @@
-package com.in28minutes.rest.webservices.restfulwebservices.user;
+package com.in28minutes.rest.webservices.restfulwebservices.exception;
 
 import java.util.Date;
-
 
 public class ExceptionResponse {
     private Date timestamp;
